@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BillardBoard</string>
+
+    <!-- Lobby -->
+    <string name="btn_new_game">New Game</string>
+
+</resources>
