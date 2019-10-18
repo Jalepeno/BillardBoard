@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <!-- global colors -->
     <color name="colorPrimary">#43A047</color>
     <color name="colorPrimaryDark">#2E7D32</color>
     <color name="colorAccent">#FF3D00</color>
@@ -23,6 +25,7 @@
 
     <color name="icon_black_active">#8A000000</color>
     <color name="icon_black__inactive">#60000000</color>
+
 
 
 

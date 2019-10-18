@@ -3,5 +3,9 @@
 
     <!-- Lobby -->
     <string name="btn_new_game">New Game</string>
+    <string name="avg">Avg:</string>
+
+
+    <string name="score">Score:</string>
 
 </resources>

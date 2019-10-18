@@ -1,4 +1,4 @@
-package appstuio60.billardboard.Game;
+package appstuio60.billardboard.game;
 
 import android.support.v7.app.AppCompatActivity;
 

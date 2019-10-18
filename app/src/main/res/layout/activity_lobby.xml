@@ -6,29 +6,21 @@
     android:layout_height="match_parent"
     tools:context="appstuio60.billardboard.LobbyActivity">
 
-    <LinearLayout
+    <FrameLayout
         android:id="@+id/drawer"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/colorPrimary"
         android:gravity="start"
         android:orientation="vertical">
 
-    </LinearLayout>
+    </FrameLayout>
 
-    <android.support.constraint.ConstraintLayout
+    <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-
         >
 
-        <Button
-            android:id="@+id/lobby_new_game_btn"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/btn_new_game" />
-
-    </android.support.constraint.ConstraintLayout>
+    </FrameLayout>
 
 
 </android.support.v4.widget.DrawerLayout>

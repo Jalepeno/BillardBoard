@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BillardBoard</string>
+
+    <!-- Lobby -->
+    <string name="btn_new_game">Nyt Spil</string>
+
+
+    <!-- Game  -->
+    <string name="avg">Snit:</string>
+    <string name="score">Point:</string>
+</resources>
